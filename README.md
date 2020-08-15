@@ -6,7 +6,7 @@
 
 | Programación | C# |
 | ------------ | ------------- |
-| <"img src="https://i.imgur.com/x1AJ8Tp.jpg"> | <"https://i.ytimg.com/vi/7wMaIoqWDOQ/maxresdefault.jpg" width="250"> |
+| <img src="https://i.imgur.com/x1AJ8Tp.jpg"> | <<img src="https://i.ytimg.com/vi/7wMaIoqWDOQ/maxresdefault.jpg" width="250"> |
 
  # Lo que utilizamos 
    <ul>  
