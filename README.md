@@ -4,9 +4,9 @@
  </ul> 
 
 
-| Futbolistas | Jugadores |
+| Programación | C# |
 | ------------ | ------------- |
-| <img src="https://i.pinimg.com/736x/69/20/64/692064981d3fb4135b010af521384dfd.jpg"> | <img src="http://www.nkfu.com/wp-content/uploads/2011/05/futbol1.jpg" width="250"> |
+| <"img src="https://i.imgur.com/x1AJ8Tp.jpg"> | <"https://i.ytimg.com/vi/7wMaIoqWDOQ/maxresdefault.jpg" width="250"> |
 
  # Lo que utilizamos 
    <ul>  
