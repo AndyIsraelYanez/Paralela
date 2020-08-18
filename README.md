@@ -1,20 +1,17 @@
 # Ejemplo Hilos 
-<span style="color: green"> jks</span>
-<font color="green"> Some green text </font>
-
-
-
 
 <h1>Buenas Tardes Ingeniero realice dos progrmas de consola que expliquen de manera sencilla los hilos</h1> 
+<h1>**********************************************************</h1> 
 <h1>Al momento de correr, importante establacer  al proyecto de inicio</h1> 
-
+<h1>**********************************************************</h1> 
 <h1>
+ <h1>Concepto de hilo que Entendi</h1> 
 <ul>
 <li>El hilo es  un proceso que se ejecuta  y en c# existe un hilo principal  que es el "static  void Min" , es importante conocer que los hilos pueden trbajar como subprocesos, los cuales trabajan con su propia linea de tiempo  y recursos a nivel paralelo.</li> 
  <li>En si los hilos sirven para repartir trabajo y poderlos ejecutar al mismo  tiempo</li> 
  </ul> </h1> 
 
-
+<h1>**********************************************************</h1> 
 | Programación | C# |
 | ------------ | ------------- |
 | <img src="https://i.imgur.com/x1AJ8Tp.jpg" width="250"> | <<img src="https://i.ytimg.com/vi/7wMaIoqWDOQ/maxresdefault.jpg" width="250"> |
