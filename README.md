@@ -1,5 +1,8 @@
 # Ejemplo Hilos 
 <span style="color: green"> jks</span>
+<font color="green"> Some green text </font>
+
+
 
 
 <h1>Buenas Tardes Ingeniero realice dos progrmas de consola que expliquen de manera sencilla los hilos</h1> 
