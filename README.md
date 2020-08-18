@@ -1,7 +1,7 @@
 # Ejemplo Hilos 
 <span style="color: green">
 
-Fuente: https://www.iteramos.com/pregunta/30538/como-anadir-color-a-github-readmemd-archivo
+
 <h1>Buenas Tardes Ingeniero realice dos progrmas de consola que expliquen de manera sencilla los hilos</h1> 
 <h1>Al momento de correr, importante establacer  al proyecto de inicio</h1> 
 </span>
