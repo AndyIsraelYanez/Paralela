@@ -1,6 +1,6 @@
 # Ejemplo Hilos 
 
-<h1>Buenas Tardes Ingeniero realice dos progrmas de consola que expliquen de manera sencilla los hilos</h1> 
+<h1>Buenas Tardes Ingeniero realice dos programas de consola que expliquen de manera sencilla los hilos</h1> 
 <h1>**********************************************************</h1> 
 <h1>Al momento de correr, importante establacer  al proyecto de inicio</h1> 
 <h1>**********************************************************</h1> 
